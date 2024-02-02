@@ -1,6 +1,6 @@
 # FRC Robotics Club - Software Department
 
-## Welcome to the First Week!
+## Welcome to Week 0!
 
 We're thrilled to have you join the FRC Robotics Club, specifically the Software Department. This first week is all about setting up the foundation for an exciting and successful robotics season. Below, you'll find a comprehensive guide to help you get started with the necessary tools and software.
 
