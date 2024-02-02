@@ -3,7 +3,7 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        // Welcome to Week 2!
+        // Welcome to Week 1!
         System.out.println("Hello, Week 1!");
 
         // Java Syntax and Coding Conventions
