@@ -8,24 +8,24 @@ The Intro-Lessons repository is created to guide beginners through the foundatio
 
 ## Contents:
 
-1. **Week 1 - Getting Started:**
+1. **Week 0 - Getting Started:**
    - Introduction to FRC Robotics.
    - Meet your team members, leaders, and mentors.
    - Set up your development environment, including programming language, IDE, version control, and robot simulation.
    - Overview of basic electronics components and their usage.
 
-2. **Week 2 - Programming Basics:**
+2. **Week 1 - Programming Basics:**
    - Fundamentals of the chosen programming language.
    - Basic syntax and coding conventions.
    - Hands-on coding exercises.
    - Introduction to software-electronics integration.
 
-3. **Week 3 - Electronics Fundamentals:**
+3. **Week 2 - Electronics Fundamentals:**
    - Understanding basic electronics principles.
    - Introduction to electronic components used in FRC.
    - Hands-on exercises in building simple circuits.
 
-4. **Week 4 - Robot Control and Sensors:**
+4. **Week 3 - Robot Control and Sensors:**
    - Understanding robot control mechanisms.
    - Integrating sensors into both programming and electronics.
    - Practical exercises on incorporating sensors in your code and circuits.
