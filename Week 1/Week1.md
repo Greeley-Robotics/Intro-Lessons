@@ -6,7 +6,7 @@ Welcome to Week 1 of our FRC Robotics Club Software Department lessons! This wee
 
 ## Lesson Plan:
 
-### 1. **Review of Week 1:**
+### 1. **Review of Week 0:**
    - Quick recap of the key concepts covered in Week 1.
    - Address any questions or concerns from the previous week.
 
