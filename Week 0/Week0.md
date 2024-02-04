@@ -45,6 +45,8 @@ We're thrilled to have you join the FRC Robotics Club, specifically the Software
 
 Before our first meeting, please ensure that you've completed the following:
 
+##### Please refer to [Installation](https://github.com/Greeley-Robotics/installation) for instructions.
+
 - **Programming Language Installation:**
   - Install the required programming language based on the team's preference.
 
